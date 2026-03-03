@@ -1,3 +1,6 @@
 - Rick
 - Morty
 - Summer
+- James
+- Adam 
+- Hope
